@@ -1,1 +1,1 @@
-# pac-man-game
+run the pacman.py file
